@@ -27,7 +27,7 @@ Bash
 cd fila
 
 # Compilar o código (gerando um executável chamado 'fila_sim')
-gcc main.c -o fila_sim
+gcc fila.c -o fila_sim
 
 # Executar a simulação
 ./fila_sim
@@ -44,7 +44,7 @@ Bash
 cd pilha
 
 # Compilar o código (gerando um executável chamado 'pilha_sim')
-gcc main.c -o pilha_sim
+gcc pilha.c -o pilha_sim
 
 # Executar a simulação
 ./pilha_sim
@@ -69,4 +69,3 @@ Leonardo Augusto - RM:565564
 
 •
 Pedro Mendes - RM:562242
-
